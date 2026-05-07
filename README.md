@@ -123,7 +123,7 @@ StockMind/
 ## 👨‍💻 Autor
 
 **Raimundo Nonato Ferreira da Silva**  
-IT Analyst | CIOps & Observability | Data Science · Finance  
+IT Analyst | Data Science & Analytics | Python · SQL · Power BI | Finance
 📍 São Paulo, SP — Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/raimundononato)
