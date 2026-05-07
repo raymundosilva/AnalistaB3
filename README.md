@@ -108,6 +108,10 @@ StockMind/
 ```
 
 ---
+## 🖥️ Interface
+
+![StockMind Interface](assets/screenshot1.png)
+![StockMind Interface](assets/screenshot2.png)
 
 ## 🗺️ Roadmap
 
