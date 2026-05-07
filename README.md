@@ -16,6 +16,10 @@ O **StockMind** é uma aplicação web de análise de ações impulsionada por I
 O projeto nasceu da combinação da formação em **Ciência de Dados** e **Mercado Financeiro** com a experiência prática em **Tecnologia da Informação**, com o objetivo de unir finanças e IA de forma acessível e privada.
 
 ---
+## 🖥️ Interface
+
+![StockMind Interface](assets/screenshot1.png)
+![StockMind Interface](assets/screenshot2.png)
 
 ## ⚙️ Stack Tecnológica
 
@@ -108,10 +112,6 @@ StockMind/
 ```
 
 ---
-## 🖥️ Interface
-
-![StockMind Interface](assets/screenshot1.png)
-![StockMind Interface](assets/screenshot2.png)
 
 ## 🗺️ Roadmap
 
