@@ -126,7 +126,7 @@ StockMind/
 IT Analyst | Data Science & Analytics | Python · SQL · Power BI | Finance
 📍 São Paulo, SP — Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/raimundo-nonato-ferreira-da-silva-a99453a3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/raimundo-nonato-ferreira-da-silva-a99453a3/)
 
 ---
 
