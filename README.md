@@ -132,4 +132,4 @@ IT Analyst | Data Science & Analytics | Python · SQL · Power BI | Finance
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Projeto open source sob licença MIT. Livre para usar, modificar e distribuir — veja LICENSE.
