@@ -1,0 +1,66 @@
+# ============================================================
+#  StockMind — .gitignore
+# ============================================================
+
+# ── Variáveis de ambiente (NUNCA versionar) ──────────────────
+.env
+.env.*
+*.env
+
+# ── Ambientes virtuais Python ────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ── Cache do Python ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# ── Distribuição / build ─────────────────────────────────────
+build/
+dist/
+*.egg-info/
+*.egg
+
+# ── Flask / runtime ──────────────────────────────────────────
+instance/
+.webassets-cache
+flask_session/
+
+# ── Jupyter Notebooks (checkpoints) ─────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Testes e cobertura ───────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# ── IDEs e editores ──────────────────────────────────────────
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ── Sistema operacional ──────────────────────────────────────
+.DS_Store           # macOS
+Thumbs.db           # Windows
+desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+logs/
+
+# ── Banco de dados local ─────────────────────────────────────
+*.db
+*.sqlite3
+
+# ── Arquivos temporários ─────────────────────────────────────
+*.tmp
+*.bak
+*.swp
